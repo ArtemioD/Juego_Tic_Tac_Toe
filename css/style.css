@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+	padding: 0;
+    background-color: #34495e;
+}
+
+h1 {
+    padding: 0;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    font-size: 45px;
+    font-weight: bold;
+    margin: 10px 15px 0;
+    color: bisque;
+}
+
+h4 {
+    text-align: center;
+}
+
+#click {
+    text-align: center;
+    margin: 0;
+    width: 507px;
+    height: 70px;
+    margin: 0 auto;
+}
+
+#boton {
+    background-color: #020202;
+    color: #fff;
+    margin-top: 12px;
+    padding: 5px;
+    font-size: 25px;
+	font-weight: bold;
+}
+
+#boton:hover {
+	cursor: pointer;
+	background-color: bisque;
+	color: #31384a;	
+}
+
+#campo {
+    width: 507px;
+    height: 507px;
+    border: #000 2px solid;
+    margin: 5px auto;
+}
+
+#campo div {
+    width: 165px;
+    height: 165px;
+    background-color: bisque;
+    float: left;
+    border: #000 2px solid;
+    cursor: pointer;
+}
+
+#humano, #ia {
+    width: 70px;
+    height: 70px;
+    border-radius: 20px;
+}
+
+#humano {
+    float: left;
+    background-size: cover;
+}
+
+#ia_cont {
+    float: right
+}
+
+#ia {
+    background-image: url("../img/ia.jpg");
+    background-size: cover;
+    float: right;
+}
+
+#hum_cont {
+    float: left;
+}
+
+
