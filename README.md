@@ -2,4 +2,4 @@
 <h2>Tic Tac Toe con JavaScript</h2>
 <p>Link para ver en YouTube: <a href="https://www.youtube.com/watch?v=AkrgW1_GquY&ab_channel=ArtemioDerkachev" target="_blanck">click aqui</a></p>
 <hr>
-<img src="https://image.freepik.com/vector-gratis/juego-tic-tac-toe_97886-854.jpg" alt="">
+<img src="https://as2.ftcdn.net/jpg/01/35/41/35/500_F_135413531_Rf9zbLGUzWMVYs8l069Yr3d9IjMKEFpW.jpg" alt="">
